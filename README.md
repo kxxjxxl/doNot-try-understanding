@@ -28,4 +28,4 @@ t*d);o=x+80*y;N          =8*((g*a-G*h*e)
 
 
 ### (also a [.py version](https://github.com/kxxjxxl/doNot-try-understanding/blob/main/donut.py) that should generate a 3D spinning donut in python 3.0+)
-### (also a heavily inspired by (https://www.a1k0n.net/2011/07/20/donut-math.html) for going into comprehensive details)
+### (also a heavily inspired by  [Andy Sloane](https://www.a1k0n.net/2011/07/20/donut-math.html) for going into comprehensive details)
